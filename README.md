@@ -1,6 +1,6 @@
 # How-to-create-a-phishing-page
 Phishing is an attemp to obtain sensitive information often for malicoius reasons by disguising as a trustworthy entity. Here I have used eBay as for the demonstration.  
-To read more go to [nuchtheseeker.wordpress.com](https://nuchtheseeker.wordpress.com/)  
+To read more go to [nuchtheseeker.wordpress.com](https://nuchtheseeker.wordpress.com/2017/03/20/phishing-attacks/)  
 
 ## Getting Started  
 - Download the project and unzip it.  
